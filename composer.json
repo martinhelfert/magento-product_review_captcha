@@ -1,0 +1,9 @@
+{
+  "name": "olegkoval/productreviewcaptcha",
+  "type": "magento-module",
+  "description": "Adds reCaptcha to Magento product review form",
+  "homepage": "https://github.com/olegkoval/magento-product_review_captcha",
+  "require": {
+    "magento-hackathon/magento-composer-installer": "*"
+  }
+}
